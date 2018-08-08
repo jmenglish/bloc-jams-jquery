@@ -16,6 +16,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     song.element.on('click', event => {
       player.playPause(song);
@@ -27,6 +28,8 @@
 >>>>>>> assignment-10-blocjams
 =======
 >>>>>>> checkpoint-11-blocjams
+=======
+>>>>>>> assignment-11-blocjams
      song.element.on('click', event => {
       player.playPause(song);
       $('button#play-pause').attr('playState', player.playState);
@@ -34,10 +37,13 @@
      $('#song-list').append(song.element);
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> checkpoint-10-blocjams
 =======
 >>>>>>> assignment-10-blocjams
 =======
 >>>>>>> checkpoint-11-blocjams
+=======
+>>>>>>> assignment-11-blocjams
   });
 }
