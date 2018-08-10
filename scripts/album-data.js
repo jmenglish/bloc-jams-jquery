@@ -10,4 +10,4 @@ const album = {
     { title: 'Pink', duration: '153.14', soundFileUrl: 'assets/music/pink.mp3' },
     { title: 'Magenta', duration: '374.22', soundFileUrl: 'assets/music/magenta.mp3' }
   ]
-};
+};  
